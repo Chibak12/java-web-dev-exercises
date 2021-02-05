@@ -6,9 +6,9 @@ public class App {
 
     public static void main(String[] args) {
         String q1 = "What is my name?\n"
-                + "(a)Chen\n(b)AzaPizda\n(c)Suka\n(d)AzaBlyad";
+                + "(a)Chen\n(b)da\n(c)Su\n(d)Azd";
         String q2 = "What is my lastname?\n"
-                + "(a)Btb\n(b)AzaPizda\n(c)Suka\n(d)AzaBlyad";
+                + "(a)Btb\n(b)Aa\n(c)Su\n(d)Ayad";
 
 
         Question[] questions = {
